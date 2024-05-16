@@ -23,5 +23,11 @@ public class Student extends Person {
     public void goToClass (){
         System.out.println("voy a clase");
     }
+
+    public double getAverage() {
+        return average;
+    }
+    
+    
     
 }
