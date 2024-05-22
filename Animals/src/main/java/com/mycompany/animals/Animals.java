@@ -17,5 +17,7 @@ public class Animals {
         animal.talk();
         cat.talk();
         dog.talk();
+        cat.play();
+        dog.sniff();
     }
 }
