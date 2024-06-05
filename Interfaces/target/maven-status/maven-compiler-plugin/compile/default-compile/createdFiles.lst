@@ -1,0 +1,7 @@
+com\mycompany\interfaces\vehicles\sport\BMW.class
+com\mycompany\interfaces\vehicles\classic\Renault4.class
+com\mycompany\interfaces\vehicles\Convertible.class
+com\mycompany\interfaces\Interfaces.class
+com\mycompany\interfaces\vehicles\sport\Porshe.class
+com\mycompany\interfaces\vehicles\Turbo.class
+com\mycompany\interfaces\vehicles\Vehicle.class
